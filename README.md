@@ -39,3 +39,4 @@ Consider the following questions to help you write:
 
 ## Remediation Strategy
 
+To avoid "man-in-the-middle" attacks, it’s highly recommended to use encryption, PKI, etc. To mitigate reconnaissance and surveillance, it’s best to use IDS/IPS solutions and network segmentation. Lastly, a proper redundancy or failover system along with regular backups and a disaster recovery plan can help lesson the severity of a disruption of mission-critical operations.
