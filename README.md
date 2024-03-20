@@ -20,8 +20,11 @@ Consider the following questions to help you write:
 
 ## Risk Assessment
 
-
-
+| Threat source | Threat event | Likelihood | Severity | Risk |
+|-----|----|---------|----|--|
+| Hacker | Conduct "man-in-the-middle" attacks. | 2 | 2 | 6 |
+| Competitor | Perform reconnaissance and surveillance of organization | 3 | 1 | 4 |
+| Advanced persistent threat (APT) | Disrupt mission-critical operations. | 2 | 3 | 9 |
 
 
 
