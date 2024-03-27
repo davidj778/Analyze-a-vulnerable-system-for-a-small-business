@@ -30,7 +30,7 @@ Consider the following questions to help you write:
 
 ## Approach
 
-- A hackers ability to listen in on conversations and potentially impersonate a higher individual in a company such as a CEO, could have catastrophic consequences to a business. If someone can act as a CEO or any upper level member of an organization, can steal information or potentially lead to reputation damage.
+- A hackers ability to listen in on conversations and potentially impersonate a higher individual in a company such as a CEO, could have catastrophic consequences to a business. If someone can act as a CEO or any upper level member of an organization, they can steal confidential information.
 
 - The competitors ability to perform reconnaissance and surveillance of an organization could lead to reputation damage, financial loss, loss of competitive advantage, among other issues.
 
